@@ -4,6 +4,6 @@ public class Hero extends Actor
 {
     public void act()
     {
-        move(-1);
+        move(1);
     }
 }
