@@ -5,6 +5,6 @@ public class Banana extends Actor
 
     public void act()
     {
-        move(-7); // Main branch change
+        move(-5); // Bananas branch
     }
 }
